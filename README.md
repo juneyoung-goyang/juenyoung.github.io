@@ -4,7 +4,7 @@
 
 📨 **e-mail: pjy1365@gmail.com**
 
-**✅깃허브:** https://github.com/juneyoung-goyang/juenyoung.github.io/blob/main/README.md
+**✅깃허브:** 
 
 ---
 
@@ -18,7 +18,9 @@
     
 
 - **Python 미니 프로젝트**
-    - 
+    - opencv를 활용하여 사진을 그림으로 변환하기
+    - opencv와 yolo를 활용한 웹캠으로 사물 인식하기
+    - streamlit을 활용한 웹 앱 만들기
 
 ---
 
