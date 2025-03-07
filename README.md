@@ -4,7 +4,7 @@
 
 📨 **e-mail: pjy1365@gmail.com**
 
-**✅깃허브:** 
+**✅깃허브:** https://github.com/juneyoung-goyang/juenyoung.github.io
 
 ---
 
